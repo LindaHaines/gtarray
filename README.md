@@ -1,1 +1,1 @@
-Packae and programs for constructing auxiliary blocks designs and square array designs
+Package and programs for constructing auxiliary block designs and square array designs
